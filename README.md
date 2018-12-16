@@ -1,2 +1,3 @@
 # MyFirstMinecraftMod
-a minecraft mof
+a minecraft mod 
+in developing
